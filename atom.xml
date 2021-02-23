@@ -6,7 +6,7 @@
   <link href="http://github.com/atom.xml" rel="self"/>
   
   <link href="http://github.com/"/>
-  <updated>2021-02-23T02:06:48.484Z</updated>
+  <updated>2021-02-23T02:14:17.976Z</updated>
   <id>http://github.com/</id>
   
   <author>
@@ -17,24 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Linux中的用户</title>
     <link href="http://github.com/2021/02/22/Linux%E7%94%A8%E6%88%B7/"/>
     <id>http://github.com/2021/02/22/Linux%E7%94%A8%E6%88%B7/</id>
-    <published>2021-02-22T09:31:57.331Z</published>
-    <updated>2021-02-23T02:06:48.484Z</updated>
+    <published>2021-02-22T09:30:59.000Z</published>
+    <updated>2021-02-23T02:14:17.976Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;title: Linux中的用户&lt;br&gt;date: 2/22/2021 5:30:59 PM&lt;br&gt;tags:</summary>
+    <summary type="html">&lt;p&gt;Linux中的用户(按权限)分为三类：&lt;/p&gt;
+&lt;p&gt;root(超级管理员)：UID为0，有最高的读写执行权限&lt;/p&gt;
+&lt;p&gt;系统用户：UID为 1-499，一般不会被登入&lt;/p&gt;
+&lt;p&gt;普通用户：UID为</summary>
         
       
     
     
     
+    
+    <category term="-Linux" scheme="http://github.com/tags/Linux/"/>
     
   </entry>
   
