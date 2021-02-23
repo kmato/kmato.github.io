@@ -6,7 +6,7 @@
   <link href="http://github.com/atom.xml" rel="self"/>
   
   <link href="http://github.com/"/>
-  <updated>2021-02-22T09:31:57.798Z</updated>
+  <updated>2021-02-23T01:52:19.137Z</updated>
   <id>http://github.com/</id>
   
   <author>
@@ -18,36 +18,20 @@
   
   <entry>
     <title></title>
-    <link href="http://github.com/2021/02/22/New%20Document/"/>
-    <id>http://github.com/2021/02/22/New%20Document/</id>
+    <link href="http://github.com/2021/02/22/Linux%E7%94%A8%E6%88%B7/"/>
+    <id>http://github.com/2021/02/22/Linux%E7%94%A8%E6%88%B7/</id>
     <published>2021-02-22T09:31:57.331Z</published>
-    <updated>2021-02-22T09:31:57.798Z</updated>
+    <updated>2021-02-23T01:52:19.137Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;title：Linux中的用户&lt;/p&gt;
-&lt;p&gt;date:2/22/2021 5:30:59 PM &lt;/p&gt;
-&lt;p&gt;Linux中的用户(按权限)分为三类：&lt;/p&gt;
-&lt;p&gt;root(超级管理员)：UID为0，有最高的读写执行权限&lt;/p&gt;
-&lt;p&gt;系统用户：UID为</summary>
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;Linux中的用户&lt;br&gt;date: 2/22/2021 5:30:59 PM&lt;br&gt;tags:&lt;br&gt;    -</summary>
         
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://github.com/2021/02/21/test/"/>
-    <id>http://github.com/2021/02/21/test/</id>
-    <published>2021-02-21T14:40:39.000Z</published>
-    <updated>2021-02-21T14:40:39.683Z</updated>
-    
     
     
     
