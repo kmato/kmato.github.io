@@ -100,25 +100,4 @@
     
   </entry>
   
-  <entry>
-    <title>Hello World</title>
-    <link href="http://github.com/2021/02/20/hello-world/"/>
-    <id>http://github.com/2021/02/20/hello-world/</id>
-    <published>2021-02-20T06:16:48.884Z</published>
-    <updated>2021-02-20T06:16:48.884Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
 </feed>
